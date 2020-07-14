@@ -1,0 +1,18 @@
+C:\Users\T\Documents\pc_igraonica\PC igraonica\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\T\Documents\pc_igraonica\PC igraonica\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\T\Documents\pc_igraonica\PC igraonica\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+C:\Users\T\Documents\pc_igraonica\PC igraonica\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\T\Documents\pc_igraonica\PC igraonica\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\T\Documents\pc_igraonica\PC igraonica\DataLayer\obj\Debug\DataLayer.pdb
+E:\Fakultet tehnickih nauka u Cacku\4. GODINA\7. Sedmi semestar\SI - Softversko inzenjerstvo\pc_igraonica\PC igraonica\DataLayer\bin\Debug\DataLayer.dll
+E:\Fakultet tehnickih nauka u Cacku\4. GODINA\7. Sedmi semestar\SI - Softversko inzenjerstvo\pc_igraonica\PC igraonica\DataLayer\bin\Debug\DataLayer.pdb
+E:\Fakultet tehnickih nauka u Cacku\4. GODINA\7. Sedmi semestar\SI - Softversko inzenjerstvo\pc_igraonica\PC igraonica\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+E:\Fakultet tehnickih nauka u Cacku\4. GODINA\7. Sedmi semestar\SI - Softversko inzenjerstvo\pc_igraonica\PC igraonica\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+E:\Fakultet tehnickih nauka u Cacku\4. GODINA\7. Sedmi semestar\SI - Softversko inzenjerstvo\pc_igraonica\PC igraonica\DataLayer\obj\Debug\DataLayer.dll
+E:\Fakultet tehnickih nauka u Cacku\4. GODINA\7. Sedmi semestar\SI - Softversko inzenjerstvo\pc_igraonica\PC igraonica\DataLayer\obj\Debug\DataLayer.pdb
+E:\Fakultet tehnickih nauka u Cacku\4. GODINA\8. Osmi semestar\SSA - Savremene Softverske Arhitekture\Seminarski\Servis automobila\Servis Automobila\DataLayer\bin\Debug\DataLayer.dll
+E:\Fakultet tehnickih nauka u Cacku\4. GODINA\8. Osmi semestar\SSA - Savremene Softverske Arhitekture\Seminarski\Servis automobila\Servis Automobila\DataLayer\bin\Debug\DataLayer.pdb
+E:\Fakultet tehnickih nauka u Cacku\4. GODINA\8. Osmi semestar\SSA - Savremene Softverske Arhitekture\Seminarski\Servis automobila\Servis Automobila\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+E:\Fakultet tehnickih nauka u Cacku\4. GODINA\8. Osmi semestar\SSA - Savremene Softverske Arhitekture\Seminarski\Servis automobila\Servis Automobila\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+E:\Fakultet tehnickih nauka u Cacku\4. GODINA\8. Osmi semestar\SSA - Savremene Softverske Arhitekture\Seminarski\Servis automobila\Servis Automobila\DataLayer\obj\Debug\DataLayer.dll
+E:\Fakultet tehnickih nauka u Cacku\4. GODINA\8. Osmi semestar\SSA - Savremene Softverske Arhitekture\Seminarski\Servis automobila\Servis Automobila\DataLayer\obj\Debug\DataLayer.pdb
